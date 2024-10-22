@@ -1,0 +1,39 @@
+# Ignore virtual environments
+env/
+venv/
+ENV/
+.venv/
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignore macOS system files (if using macOS)
+.DS_Store
+
+# Ignore log files and temporary files
+*.log
+*.tmp
+
+# Ignore IDE project files (like from VS Code, PyCharm, etc.)
+.vscode/
+.idea/
+
+# Ignore Python environment settings
+.Python
+*.env
+*.envrc
+
+# Ignore compiled code
+*.so
+*.dll
+*.dylib
+
+# Ignore test coverage files
+htmlcov/
+.coverage
+.tox/
+
+# Ignore any other hidden files
+.*
