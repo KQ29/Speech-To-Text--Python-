@@ -87,7 +87,7 @@ Translated Text: Bonjour, comment ça va?
 Final Translated Text: Hello, how are you?
 Press '1' to stop the program, or any other key to continue: 1
 Exiting program...
-
+```
 
 ## License
 
